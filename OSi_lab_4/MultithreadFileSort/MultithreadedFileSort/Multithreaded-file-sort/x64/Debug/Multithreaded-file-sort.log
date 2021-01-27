@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Multithreaded-file-sort.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MultithreadFileSort.cpp
+F:\Курс_3_Семестр_1\ОСиСП\OSi_lab_4\MultithreadFileSort\MultithreadedFileSort\Multithreaded-file-sort\MultithreadFileSort.cpp(30,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+F:\Курс_3_Семестр_1\ОСиСП\OSi_lab_4\MultithreadFileSort\MultithreadedFileSort\Multithreaded-file-sort\MultithreadFileSort.cpp(43,39): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Multithreaded-file-sort.vcxproj -> F:\Курс_3_Семестр_1\ОСиСП\OSi_lab_4\MultithreadFileSort\MultithreadedFileSort\x64\Debug\MultithreadFileSort.exe

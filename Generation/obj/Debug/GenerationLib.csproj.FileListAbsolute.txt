@@ -1,0 +1,5 @@
+F:\Курс_3_Семестр_1\СПП\Generation\bin\Debug\Generation.dll
+F:\Курс_3_Семестр_1\СПП\Generation\bin\Debug\Generation.pdb
+F:\Курс_3_Семестр_1\СПП\Generation\obj\Debug\Generation.dll
+F:\Курс_3_Семестр_1\СПП\Generation\obj\Debug\Generation.pdb
+F:\Курс_3_Семестр_1\СПП\Generation\obj\Debug\GenerationLib.csprojAssemblyReference.cache
